@@ -136,6 +136,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['contact_form'])) {
                                 <i class="fab fa-youtube"></i>
                                 <span>YouTube</span>
                             </a>
+                            <a href="https://api.whatsapp.com/send?phone=923313269812&text=Hi%20Pulse%20Wear!%20I%20would%20like%20to%20inquire%20about%20your%20bracelets." target="_blank" rel="noopener noreferrer" class="social-link">
+                                <i class="fab fa-whatsapp"></i>
+                                <span>WhatsApp</span>
+                            </a>
                         </div>
                     </div>
                 </div>

@@ -234,7 +234,7 @@ require_once 'includes/functions.php';
                         <li><a href="products.php">Shop</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="contact.php">Contact</a></li>
-                        <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="contact.php#faq-section">FAQ</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">

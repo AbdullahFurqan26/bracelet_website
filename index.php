@@ -71,7 +71,7 @@ $featured_products = getFeaturedProducts();
             </div>
             <div class="hero-image">
                 <div class="hero-bracelet">
-                    <img src="assets/images/pak1.jpg" alt="Elegant Pulse Wear Bracelet Collection">
+                    <img src="assets/images/main3.jpg" alt="Elegant Pulse Wear Bracelet Collection">
                 </div>
             </div>
         </div>
@@ -139,12 +139,13 @@ $featured_products = getFeaturedProducts();
                         <li><a href="products.php">Shop</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="contact.php">Contact</a></li>
+                        <li><a href="contact.php#faq-section">FAQ</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
                     <h3>Contact Info</h3>
                     <p><i class="fas fa-envelope"></i> naturelover8100@gmail.com</p>
-                    <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                    <p><i class="fas fa-phone"></i> +92 331 3269812</p>
                     <p><i class="fas fa-map-marker-alt"></i> Karachi, Pakistan</p>
                 </div>
             </div>
