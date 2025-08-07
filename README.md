@@ -255,8 +255,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 For support or questions:
-- Email: hello@pulsewear.com
-- Phone: +1 (555) 123-4567
+- Email: abdullahfurqan2000@gmail.com
+- Phone: 0321-4808712
 - Website: www.pulsewear.com
 
 ## 🔮 Future Enhancements
